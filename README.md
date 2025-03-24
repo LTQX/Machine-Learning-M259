@@ -7,4 +7,4 @@ Datenschutz:
 Der Datensatz enthält keine personenbezogenen Daten, da er sich ausschließlich auf Spiele und deren Metadaten bezieht. Es sind keine besonderen Datenschutzmaßnahmen erforderlich, da keine sensiblen Informationen wie Namen, Adressen oder andere persönliche Daten enthalten sind. Die Daten wurden von den Ersteller:innen des Datensatzes anonymisiert und unter MIT veröffentlicht. Der Datensatz verletzt nichts.
 
 
-Ich musste es als .zip hochladen, da es so zu gross war, auch mit nur 1000 Zeilen.
+Ich musste es als .zip hochladen, da es so zu gross war, auch mit nur 10'000 Zeilen.
