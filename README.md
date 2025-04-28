@@ -12,3 +12,9 @@ Der Datensatz enthält keine personenbezogenen Daten, da er sich ausschließlich
 
 Heute war LB-Teil 2 und ich bin endlich fertig. Ich hatte ein paar Probleme mit pip install aber konnte es noch beheben.
 Ich habe auch die data_description Datei hochgeladen auf github.
+
+
+
+## 28.04.2025
+
+Heute war LB-Teil 3 und ich bin fertig. Ich hatte keine Probleme, alles ging schnell und einfach.
